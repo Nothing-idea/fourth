@@ -1,7 +1,8 @@
 package test;
 
 public class Test {
-public static void main(String[] args) {
-	System.out.println("sts导入本地");
-}
+	public static void main(String[] args) {
+		System.out.println("sts锟斤拷锟诫本锟斤拷");
+		System.out.println("鍒嗘敮");
+	}
 }
