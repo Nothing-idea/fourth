@@ -2,6 +2,7 @@ package demo01;
 
 public class Demo01 {
 	public static void main(String[] args) {
-		System.out.println("µÚ¶ş´ÎÍ¨¹ısts´«µİµ½GitHubµÄfouthµÄ²Ö¿â");
+		System.out.println("ç¬¬äºŒæ¬¡é€šè¿‡stsä¼ é€’åˆ°GitHubçš„fouthçš„ä»“åº“");
+		System.out.println("é€šè¿‡è¿œç¨‹GitHubæ‹‰å–å›STSä¸­");
 	}
 }
